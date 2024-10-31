@@ -1,0 +1,6 @@
+C:\Users\ferna\source\repos\Diseño BIblioteca\obj\Debug\net8.0-windows\Diseño_BIblioteca.Form1.resources
+C:\Users\ferna\source\repos\Diseño BIblioteca\obj\Debug\net8.0-windows\Diseño BIblioteca.vbproj.GenerateResource.cache
+C:\Users\ferna\source\repos\Diseño BIblioteca\obj\Debug\net8.0-windows\Diseño BIblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\Diseño BIblioteca\obj\Debug\net8.0-windows\Diseño BIblioteca.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\Diseño BIblioteca\obj\Debug\net8.0-windows\Diseño BIblioteca.AssemblyInfo.vb
+C:\Users\ferna\source\repos\Diseño BIblioteca\obj\Debug\net8.0-windows\Diseño BIblioteca.vbproj.CoreCompileInputs.cache

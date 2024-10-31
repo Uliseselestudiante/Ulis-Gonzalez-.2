@@ -1,0 +1,16 @@
+C:\Users\ferna\source\repos\Ulises Gonzalez\bin\Debug\net8.0-windows\Ulises Gonzalez.exe
+C:\Users\ferna\source\repos\Ulises Gonzalez\bin\Debug\net8.0-windows\Ulises Gonzalez.deps.json
+C:\Users\ferna\source\repos\Ulises Gonzalez\bin\Debug\net8.0-windows\Ulises Gonzalez.runtimeconfig.json
+C:\Users\ferna\source\repos\Ulises Gonzalez\bin\Debug\net8.0-windows\Ulises Gonzalez.dll
+C:\Users\ferna\source\repos\Ulises Gonzalez\bin\Debug\net8.0-windows\Ulises Gonzalez.pdb
+C:\Users\ferna\source\repos\Ulises Gonzalez\obj\Debug\net8.0-windows\Ulises_Gonzalez.Form1.resources
+C:\Users\ferna\source\repos\Ulises Gonzalez\obj\Debug\net8.0-windows\Ulises Gonzalez.vbproj.GenerateResource.cache
+C:\Users\ferna\source\repos\Ulises Gonzalez\obj\Debug\net8.0-windows\Ulises Gonzalez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\Ulises Gonzalez\obj\Debug\net8.0-windows\Ulises Gonzalez.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\Ulises Gonzalez\obj\Debug\net8.0-windows\Ulises Gonzalez.AssemblyInfo.vb
+C:\Users\ferna\source\repos\Ulises Gonzalez\obj\Debug\net8.0-windows\Ulises Gonzalez.vbproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\Ulises Gonzalez\obj\Debug\net8.0-windows\Ulises Gonzalez.dll
+C:\Users\ferna\source\repos\Ulises Gonzalez\obj\Debug\net8.0-windows\refint\Ulises Gonzalez.dll
+C:\Users\ferna\source\repos\Ulises Gonzalez\obj\Debug\net8.0-windows\Ulises Gonzalez.pdb
+C:\Users\ferna\source\repos\Ulises Gonzalez\obj\Debug\net8.0-windows\Ulises Gonzalez.genruntimeconfig.cache
+C:\Users\ferna\source\repos\Ulises Gonzalez\obj\Debug\net8.0-windows\ref\Ulises Gonzalez.dll
